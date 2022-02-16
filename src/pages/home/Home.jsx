@@ -13,7 +13,7 @@ const Home = () => {
         data={userData}
         title="User Analytics"
         grid
-        dataKey="Active User Gogo"
+        dataKey="Active User"
       />
       <div className="homeWidgets">
         <WidgetSm />
